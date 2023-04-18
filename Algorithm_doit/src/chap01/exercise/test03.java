@@ -3,7 +3,7 @@ package chap01.exercise;
 import java.util.Scanner;
 
 //네 값의 최솟값 구하기
-public class test3 {
+public class test03 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

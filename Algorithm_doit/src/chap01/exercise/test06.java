@@ -3,7 +3,7 @@ package chap01.exercise;
 import java.util.Scanner;
 
 //while문으로 1,2,....,n의 합 구하기
-public class test6 {
+public class test06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

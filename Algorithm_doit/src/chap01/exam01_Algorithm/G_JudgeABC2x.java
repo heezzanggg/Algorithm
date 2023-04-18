@@ -1,8 +1,7 @@
-package chap01.exam01_Algorithm.exam;
+package chap01.exam01_Algorithm;
 
 import java.util.Scanner;
-
-public class E_JudgeABC1 {
+public class G_JudgeABC2x {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -13,7 +12,9 @@ public class E_JudgeABC1 {
             System.out.println("Ａ");
         else if (n == 2)
             System.out.println("Ｂ");
-        else
+        else if (n == 3)
             System.out.println("Ｃ");
+        else
+            ;
     }
 }

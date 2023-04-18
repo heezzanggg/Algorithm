@@ -3,7 +3,7 @@ package chap01.exercise;
 import java.util.Scanner;
 
 //네값의 최대값을 구하는 max4메서드 작성, main메서드 포함해야함
-public class test1 {
+public class test01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a,b,c,d;

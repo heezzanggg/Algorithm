@@ -1,4 +1,4 @@
-package chap01.exam01_Algorithm.exam;
+package chap01.exam01_Algorithm;
 //3개의 정숫값 가운데 최대값을 구하여 출력
 
 public class B_Max3Method {

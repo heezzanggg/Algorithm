@@ -1,4 +1,4 @@
-package chap01.exam01_Algorithm.exam;
+package chap01.exam01_Algorithm;
 
 import java.util.Scanner;
 

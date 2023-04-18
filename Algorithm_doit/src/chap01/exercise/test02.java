@@ -3,7 +3,7 @@ package chap01.exercise;
 import java.util.Scanner;
 
 //세값의 초솟값 구하기
-public class test2 {
+public class test02 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
